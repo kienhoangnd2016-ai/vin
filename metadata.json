@@ -1,0 +1,6 @@
+{
+  "name": "VinFast Electric Vehicles | Digital Luxury Showroom",
+  "description": "Showroom ô tô điện VinFast cao cấp kết hợp nền tảng công nghệ mua xe thông minh: cấu hình xe, so sánh, tính trả góp, chi phí sử dụng, định tuyến trạm sạc V-Green và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
